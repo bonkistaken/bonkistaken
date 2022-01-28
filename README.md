@@ -1,3 +1,3 @@
-Python and developer
+Python developer
 linux user
 I use arch btw
